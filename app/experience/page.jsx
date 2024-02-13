@@ -77,7 +77,7 @@ export default function Experience() {
                         >
                           <FaGithub className="text-gray-500" />
                           <span>
-                            feat(core): configure useCan's queryOptions globally
+                            feat(core): configure useCan&apos;s queryOptions globally
                             and through CanA…
                           </span>
                         </a>
